@@ -1,0 +1,10 @@
+S calculateDistance
+Q removeGreater 59
+S addOrRemove 1
+S addOrRemove -1
+Q addOrRemove -1
+S reverse 3
+Q distinctElements
+Q reverse 4
+S sortElements
+Q sortElements
